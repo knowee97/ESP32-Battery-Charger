@@ -1,0 +1,76 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\ESP32\ESP32.PcbDoc
+Date     : 4/1/2026
+Time     : 8:11:08 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InComponent('C1') OR InComponent('C3') OR InComponent('C4') OR InComponent('U3') OR InComponent('U1') OR InComponent('R6') OR InComponent('J2')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=5mil) (InDifferentialPair('USB_D')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=6mil) (Preferred=5mil) (WithinRoom('Room_U3'))
+Rule Violations :0
+
+Processing Rule : Routing Topology Rule(Topology=Shortest) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (InComponent('U1') OR InComponent('U3') OR InComponent('MDI') OR InComponent('J2')),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (1.422mil < 4mil) Between Pad MD1-49(2721.935mil,2828.577mil) on Top Layer And Via (2720mil,2791.634mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.423mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.422mil < 4mil) Between Pad MD1-49(2721.935mil,2828.577mil) on Top Layer And Via (2758.878mil,2830.512mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.423mil]
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=2mil) (InComponent('U3') OR InComponent('C2')
+OR InComponent('D1')
+OR InComponent('R1')),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room_U3 (Bounding Region = (3533.976mil, 2743.74mil, 3675.039mil, 2856.26mil) (InComponentClass('Room Definition1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 2
+Waived Violations : 0
+Time Elapsed        : 00:00:00

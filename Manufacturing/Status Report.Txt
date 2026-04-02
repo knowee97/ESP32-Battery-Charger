@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ESP32.PrjPcb]
+   Generated File[ESP32.GTO]
+   Generated File[ESP32.GTP]
+   Generated File[ESP32.GTS]
+   Generated File[ESP32.GTL]
+   Generated File[ESP32.G1]
+   Generated File[ESP32.G2]
+   Generated File[ESP32.GBL]
+   Generated File[ESP32.GBS]
+   Generated File[ESP32.GBP]
+   Generated File[ESP32.GBO]
+   Generated File[ESP32.GM]
+   Generated File[ESP32.EXTREP]
+   Generated File[ESP32.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 9:18:26 PM On 4/1/2026
