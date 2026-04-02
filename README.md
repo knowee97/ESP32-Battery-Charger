@@ -1,6 +1,6 @@
 # ESP32-Battery-Charger
 4-layer PCB design featuring the **ESP32-C3-MINI-1** RISC-V SoC with integrated Li-Po battery management.
-
+![ESP32-C3 PCB Render](Images/3DFront.png)
 
 ## 🛠 Technical Specifications
 * **Processor**: ESP32-C3-MINI-1 (RISC-V Single-Core, Wi-Fi/Bluetooth LE).
